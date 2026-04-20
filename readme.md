@@ -1,11 +1,16 @@
-# AI-Ticket-Assistant - ChaiCode
+# 🚀 AI Ticketing System
 
-Welcome to the AI-Powered Ticket Management System!
-This course is a part of Chaicode youtube video series. This project is a web application that uses AI to automatically categorize, prioritize, and assign support tickets to the most appropriate moderators.
+An intelligent ticket management system that leverages AI to automate ticket categorization, prioritization, and assignment. Built with a scalable backend architecture, this project improves support workflows by reducing manual effort and enabling faster resolution.
 
-# AI-Powered Ticket Management System
+---
 
-A smart ticket management system that uses AI to automatically categorize, prioritize, and assign support tickets to the most appropriate moderators.
+## ✨ Overview
+
+The AI Ticketing System is designed to streamline support operations by using AI to analyze incoming tickets and automatically assign them to the most relevant moderators based on required skills.
+
+This project demonstrates real-world backend engineering concepts including authentication, background job processing, AI integration, and scalable system design.
+
+---
 
 ## 🚀 Features
 
@@ -205,9 +210,7 @@ A smart ticket management system that uses AI to automatically categorize, prior
 - `mongoose`: ^8.13.2
 - `nodemailer`: ^6.10.1
 
-## 🤝 Contributing
 
-we don't accept contributions for this project, as this is a part of a video and code files needs to given as it is.
 
 ## 🙏 Acknowledgments
 
