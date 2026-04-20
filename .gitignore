@@ -1,4 +1,24 @@
-ai-ticket-assistant/.env
-ai-ticket-assistant/node_modules
-ai-ticket-frontend/node_modules
-ai-ticket-frontend/.env
+# ai-ticket-assistant/.env
+# ai-ticket-assistant/node_modules
+# ai-ticket-frontend/node_modules
+# ai-ticket-frontend/.env
+# .env
+# frontend\.env
+
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Node modules
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
